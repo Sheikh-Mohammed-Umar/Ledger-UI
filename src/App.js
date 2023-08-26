@@ -4,7 +4,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        This is a Ledger UI Test
+        This is a Ledger UI
       </header>
     </div>
   );
